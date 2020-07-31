@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>TDbusinessbanking</groupId>
-  <artifactId>TDBBteam3</artifactId>
+  <artifactId>TDBBteam_cucmber</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>TDBBteam3</name>
+  <name>TDBBteam_cucumber</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
