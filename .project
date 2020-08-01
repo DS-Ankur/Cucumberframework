@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>TDBBteam_user2</name>
+=======
 	<name>TDBBteam_Git</name>
+>>>>>>> a065467f3e1dc75242b99ba5d37d8fff8297e110
 	<comment></comment>
 	<projects>
 	</projects>
